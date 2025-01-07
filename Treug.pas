@@ -5,3 +5,4 @@ readln(a,h);
 s:=0.5*a*h;
 write('str = ',s);
 end.
+and.
