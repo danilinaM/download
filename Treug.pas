@@ -3,5 +3,5 @@ begin
 writeln('Введите основание и высоту через пробел');
 readln(a,h);
 s:=0.5*a*h;
-writeln('s = ',s);
+writeln('str = ',s);
 end.
